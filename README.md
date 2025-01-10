@@ -1,10 +1,10 @@
 # project-automated-summaries-of-product-reviews
 
-Introduction
+**Introduction**
 
 This project provides a comprehensive solution for analyzing customer reviews to enhance product and service offerings. It encompasses sentiment analysis, product category clustering, and generative AI for summarizing reviews into insightful articles.
 
-Features
+**Features**
 
 1) Sentiment Analysis: Classifies customer reviews into positive or negative using the DistilBERT model.
 
@@ -24,7 +24,7 @@ Preprocessing includes:
 
 3) Review Summarization: Employs generative AI to create articles recommending top products for each category.
 
-Dependencies
+**Dependencies**
 
 This project utilizes several Python libraries for data manipulation, analysis, natural language processing, machine learning, and visualization. Below is a summary of the key libraries and their roles:
 
